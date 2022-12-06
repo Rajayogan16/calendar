@@ -1,0 +1,26 @@
+*{
+    margin:0.5cm;
+    padding:0px;
+    box-sizing: border-box;
+    text-align: center;
+
+    
+}
+
+table,th,td{
+    border-style: solid;
+    border-color: black;
+    height: 50px;
+    padding: 10px;
+    border-collapse:collapse;
+    display: table-cell;
+}
+
+.design{
+    text-align: center;
+    color: white;
+    background-color: brown;
+}
+
+
+
